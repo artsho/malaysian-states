@@ -53,7 +53,10 @@
     "Ayer Baloi",
     "Kahang",
     "Bandar Penawar",
-    "Pengerang"
+    "Pengerang",
+    "Ayer Tawar 2",
+    "Panchor",
+    "Matang"
   ],
   "Kedah": [
     "Sungai Petani",
@@ -83,7 +86,9 @@
     "Kupang",
     "Jeniang",
     "Langgar",
-    "Merbok"
+    "Merbok",
+    "Ayer Puteh",
+    "Kuala Pegang"
   ],
   "Kelantan": [
     "Kota Bharu",
@@ -150,7 +155,8 @@
     "Batu Kikir",
     "Asahan",
     "Simpang Pertang",
-    "Johol"
+    "Johol",
+    "Tanjong Ipoh"
   ],
   "Pahang": [
     "Kuantan",
@@ -179,7 +185,14 @@
     "Ringlet",
     "Benta",
     "Lanchang",
-    "Sungai Lembing"
+    "Sungai Lembing",
+    "Brinchang",
+    "Rompin",
+    "Balok",
+    "Brinchang",
+    "Chenor",
+    "Genting Highlands",
+    "Sungai Koyan"
   ],
   "Perak": [
     "Ipoh",
@@ -238,7 +251,12 @@
     "Kuala Sepetang",
     "Sungai Sumun",
     "Bagan Datoh",
-    "Tanjong Rambutan"
+    "Tanjong Rambutan",
+    "Chenderiang",
+    "Intan",
+    "Lambor Kanan",
+    "Manong",
+    "Tldm Lumut"
   ],
   "Perlis": [
     "Kangar",
@@ -272,7 +290,9 @@
     "Batu Maung",
     "Penaga",
     "Kubang Semang",
-    "Batu Ferringhi"
+    "Batu Ferringhi",
+    "Usm Pulau Pinang",
+    "Penang Hill"
   ],
   "Sabah": [
     "Kota Kinabalu",
@@ -300,7 +320,8 @@
     "Tamparuli",
     "Sipitang",
     "Kuala Penyu",
-    "Membakut"
+    "Membakut",
+    "Menumbok"
   ],
   "Sarawak": [
     "Kuching",
@@ -333,7 +354,13 @@
     "Dalat",
     "Saratok",
     "Bekenu",
-    "Sebauh"
+    "Sebauh",
+    "Betong",
+    "Julau",
+    "Kabong",
+    "Matu",
+    "Roban",
+    "Song"
   ],
   "Selangor": [
     "Subang Jaya",
@@ -392,7 +419,11 @@
     "Bukit Rotan",
     "Sungai Ayer Tawar",
     "Kerling",
-    "Rasa"
+    "Rasa",
+    "Klia",
+    "Pulau Carey",
+    "Shah Alam",
+    "Ulu Bernam"
   ],
   "Terengganu": [
     "Kuala Terengganu",
@@ -411,12 +442,19 @@
     "Ketengah Jaya",
     "Kijal",
     "Kemasek",
-    "Chalok"
+    "Chalok",
+    "Al Muktatfi Billah Shah",
+    "Bukit Besi",
   ],
   "Wilayah Persekutuan": [
     "Kuala Lumpur",
     "Labuan",
     "Putrajaya",
     "Permaisuri"
-  ]
+  ],
+  "Other": [
+    "Singapore",
+    "Dhaka",
+    "Sg"
+  ] 
 }
